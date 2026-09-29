@@ -63,5 +63,3 @@ Inglês C1 · Aberto a trabalho remoto.
 <img src="https://streak-stats.demolab.com?user=GuiMRDS&theme=github-dark&hide_border=true&background=0d1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
 </div>
-
----
