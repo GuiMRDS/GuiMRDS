@@ -6,7 +6,7 @@
 
 ---
 
-Tenho 21 anos, formado em **Análise e Desenvolvimento de Sistemas pela UNIP**.
+Tenho 22 anos, formado em **Análise e Desenvolvimento de Sistemas pela UNIP**.
 Construo sistemas full stack com foco em arquitetura sólida, testes automatizados e deploy real — não só código bonito.
 Uso **IA ativamente** no desenvolvimento (CursorAI, Copilot e Claude) para acelerar entregas, revisar arquitetura e gerar testes.
 Inglês C1 · Aberto a trabalho remoto.
